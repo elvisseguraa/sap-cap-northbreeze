@@ -41,6 +41,8 @@ cd northbreeze
 cds watch
 ```
 
+* VERSION 1
+
 URL_BASE = https://port41161-workspaces-ws-XXXXX.us10.trial.applicationstudio.cloud.sap
 
 ODATA OPERATIONS
