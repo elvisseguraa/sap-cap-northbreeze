@@ -27,14 +27,12 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 
 ## Custom INFO
 
+REFERENCIA
   * Build Your First OData-Based Backend Service: https://developers.sap.com/group.scp-8-odata-service.html
     - Define a Simple Data Model and OData Service with CDS: https://developers.sap.com/tutorials/odata-05-data-model-service.html
     - Extend your Simple Data Model with a Second Entity: https://developers.sap.com/tutorials/odata-06-extend-odata-service.html
     - Extend the Built-In OData Features with Custom Code: https://developers.sap.com/tutorials/odata-07-extend-custom-code.html
 
-
-
-# VERSION 1
 
 PROYECT northbreeze
 ```bash
